@@ -31,25 +31,32 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Bhartendu-Kumar/DIP">
     <img src="images/logo.gif" alt="Logo" width="80" height="80">
   </a>
-
-<h3 align="center">project_title</h3>
+  
+  
+ 
+<h3 align="center">Exploring Blind Preprocessing to Improve Viola-Jones</h3>
 
   <p align="center">
-    project_description
+    We are interested in studying the impact of applying various pre-processing methods on the detection efficiency of Viola-Jones detector. The pre-processing has to be blind so to be applied in all scenarios and still we do get better performance. 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Bhartendu-Kumar/DIP"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Bhartendu-Kumar/DIP">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Bhartendu-Kumar/DIP">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Bhartendu-Kumar/DIP">Request Feature</a>
   </p>
 </div>
+
+
+   
+    
+
 
 
 
@@ -86,7 +93,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+
+
+
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Bhartendu-Kumar`, `DIP`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -126,7 +136,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Bhartendu-Kumar/DIP.git
    ```
 3. Install NPM packages
    ```sh
@@ -160,7 +170,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [] Feature 3
     - [] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Bhartendu-Kumar/DIP/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -198,7 +208,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Bhartendu-Kumar/DIP](https://github.com/Bhartendu-Kumar/DIP)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -215,18 +225,118 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 
+
+
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Bhartendu-Kumar/DIP.svg?style=for-the-badge
+[contributors-url]: https://github.com/Bhartendu-Kumar/DIP/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Bhartendu-Kumar/DIP.svg?style=for-the-badge
+[forks-url]: https://github.com/Bhartendu-Kumar/DIP/network/members
+[stars-shield]: https://img.shields.io/github/stars/Bhartendu-Kumar/DIP.svg?style=for-the-badge
+[stars-url]: https://github.com/Bhartendu-Kumar/DIP/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Bhartendu-Kumar/DIP.svg?style=for-the-badge
 [issues-url]: https://github.com/Bhartendu-Kumar/DIP/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/Bhartendu-Kumar/DIP.svg?style=for-the-badge
+[license-url]: https://github.com/Bhartendu-Kumar/DIP/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/lena.gif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# DIP
+DIP project
+
+DataSets:
+1. MIT CBCL
+2. BioID
+3. Yale
+4. Caltech
+5. SoF
+6. Orl
+7. Non - Face Dataset (Collected Heterogeneously)
+
+----------------------------------------------------------------------------------------
+Pre-Processing Methods Studied:
+* Low Pass Filters:
+
+1. gaussian blur
+2. bilateral filter
+
+
+* Deconvolutions
+1. Blind Deconvolution (richardson lucy)
+2. tv_chambolle
+3. BMD (partially implemented , not converging yet)
+
+* Retinex
+
+1. SSR
+2. MSR
+3. retinex FM
+4. NMBM
+
+* Normalization
+
+1. HOMO
+
+* Histogram Manipulation
+
+1. CLAHE
+2. HE
+3. log intensity stretch
+4. full scale intensity stretch
+----------------------------------------------------------------------------------------
+
+The pipeline is as:
+
+
+Step 1: Download the DataSets (from their owner sites) and use the scripts in the dataset_helper_scripts directory to convert all to greyscale and change extensions like (.gif and .pgm) to common extensions. Also arrange all images of a dataset in a single folder using these scripts.
+
+Step 2: Arrange the data   directory like shown
+has 2 subdirectories: faces     non-faces
+These further have their particular sub-directories with name of the DATASET
+
+
+----! Important, for illuastration "data" folder has the desired structure, just that it has few images 
+
+Step 3: Run all the "driver scripts" in the root directory of this repository.
+This will create an "output" directory with the result of all preprocessing methods.
+
+Step 4: Use "csv_scripts" directory to get the performance metrics from the "output" directory
+
+Step 5: "analysis" directory has the final performance csv files of each pre-procesing method
+
+Step 6: Published report  directory has the final findings in form of csv file.
+
